@@ -1,2 +1,4 @@
-# ola_mundo
+# olá, mundo!
 estudos_versionamento
+
+repositorio criado.
